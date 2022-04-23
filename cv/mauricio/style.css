@@ -1,0 +1,15 @@
+.FotoCv{
+    border-radius: 50%;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+}
+
+h1{
+    text-align: center;
+}
+
+.rindex{
+    text-align: right;
+}
