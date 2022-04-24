@@ -1,0 +1,32 @@
+h1{
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Satisfy', cursive;
+    font-family: 'Shadows Into Light', cursive;
+    text-transform: uppercase;
+    font-size: 2.9em;
+    color: #F1B2B5; 
+   
+}
+
+
+h3{
+    color: #F5C5C5;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Satisfy', cursive;
+    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Staatliches', cursive;
+    font-size: 1.5em;
+}
+
+h4{
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Satisfy', cursive;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 1.3em;
+    line-height: 0em;
+}
+hr{
+    border-top: 3.5px solid #BEBEBE;
+}
