@@ -1,0 +1,54 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(2fr,2fr);
+    grid-gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+  }
+h1{
+    text-align: center;
+    text-transform:uppercase;
+    font-family: 'Roboto',sans-serif;
+}
+.cabeza {
+    border: 4px ;
+    grid-column: 1 / 5;
+    grid-row: 1/3;
+}
+.two {
+    border: 4px ;
+    grid-column: 1/3;
+    grid-row: 3/5;
+}
+.three {
+    border: 4px ;
+    grid-column: 3/5;
+    grid-row: 3/5;
+}
+
+h2{
+    font-family:'Roboto',sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+tr{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.FotoCv{
+    width: 150px;
+    height: 150px;
+    margin-left:auto;
+    margin-right: auto;
+    border-radius: 50%;
+    background-image:url(img/FotoCvMCL.jpg) ;
+    background-size:cover;
+    background-position: center;
+    margin-top:10px;
+}
+.FotoCv:hover{
+    background-image: url(img/Favicon.jpg);
+}
+
+  

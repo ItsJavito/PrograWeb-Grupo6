@@ -1,11 +1,15 @@
 .FotoCv{
-    border-radius: 50%;
-    display:block;
-    margin-left: auto;
-    margin-right: auto;
     width: 150px;
+    height: 150px;
+    margin-left:15em;
+    border-radius: 50%;
+    background-image:url(img/FotoCvMCL.jpg) ;
+    background-size:cover;
+    background-position: center;
 }
-
+.FotoCv:hover{
+    background-image: url(img/Favicon.jpg);
+}
 h1{
     text-align: center;
     text-transform:uppercase;
@@ -14,8 +18,17 @@ h1{
 
 h2{
     font-family:'Roboto',sans-serif;
+    text-align: center;
     text-transform: uppercase;
     
+}
+
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    color:white;
+    background-color: black;
 }
 
 ul{
