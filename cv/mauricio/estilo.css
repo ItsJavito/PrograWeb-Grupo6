@@ -3,7 +3,6 @@
     grid-template-columns: repeat(2fr,2fr);
     grid-gap: 20px;
     grid-auto-rows: minmax(10px, auto);
-    background-color:;
     border-radius: 50px;
     box-shadow: 10px 0px 60px grey;
 }
@@ -73,7 +72,7 @@ h2{
     text-align: center;
     text-transform: uppercase;
     color:white;
-    text-shadow: 2px 1px 5px black;;
+    text-shadow: 2px 1px 5px black;
 
 }
 tr{
